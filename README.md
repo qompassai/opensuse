@@ -1,9 +1,15 @@
+<!-- /qompassai/opensuse/README.md -->
+<!-- ---------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
+
+
+
 <h2> Quality OpenSUSE </h2>
 
 <h3> Qompass AI on OpenSUSE </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-opensuse)
-
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/opensuse/total?style=flat-square)
  <a href="https://opensuse.org/">
   <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE">
 </a>
